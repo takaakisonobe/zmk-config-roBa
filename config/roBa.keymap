@@ -79,6 +79,11 @@
             bindings = <&kp JP_EQUAL>;
             key-positions = <24 25>;
         };
+
+        esc {
+            bindings = <&kp ESC>;
+            key-positions = <0 1>;
+        };
     };
 
     macros {
