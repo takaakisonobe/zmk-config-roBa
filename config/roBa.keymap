@@ -108,7 +108,7 @@
             bindings = <
 &kp Q             &kp W         &kp E         &kp R                       &kp T                                                          &kp Y        &kp U  &kp I      &kp O    &kp P
 &kp A             &kp S         &kp D         &kp F                       &kp G        &kp LS(LG(S))                      &kp SLASH      &kp H        &kp J  &kp K      &kp L    &lt 5 MINUS
-&mt LEFT_SHIFT Z  &kp X         &kp C         &kp V                       &kp B        &kp JP_COLON                       &kp SEMICOLON  &kp N        &kp M  &kp COMMA  &kp DOT  &lt 5 JP_QUOTE
+&mt LEFT_SHIFT Z  &kp X         &kp C         &kp V                       &kp B        &kp JP_COLON                       &kp SEMICOLON  &kp N        &kp M  &kp COMMA  &kp DOT  &mt RSHFT JP_QUOTE
 &kp LCTRL         &kp LEFT_WIN  &kp LEFT_ALT  &lt_to_layer_0 6 JP_HANZEN  &lt 2 SPACE  &lt_to_layer_0 3 INT_MUHENKAN      &kp BACKSPACE  &lt 1 ENTER                             &kp DEL
             >;
 
