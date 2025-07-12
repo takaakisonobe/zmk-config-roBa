@@ -72,12 +72,22 @@
 
         eq {
             bindings = <&kp JP_EQUAL>;
-            key-positions = <24 25>;
+            key-positions = <18 19>;
         };
 
         esc {
             bindings = <&kp ESC>;
             key-positions = <0 1>;
+        };
+
+        lt {
+            bindings = <&kp LT>;
+            key-positions = <17 18>;
+        };
+
+        gt {
+            bindings = <&kp GT>;
+            key-positions = <19 20>;
         };
     };
 
