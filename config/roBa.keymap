@@ -92,6 +92,11 @@
             bindings = <&kp GT>;
             key-positions = <19 20>;
         };
+
+        space {
+            bindings = <&kp SPACE>;
+            key-positions = <22 38>;
+        };
     };
 
     macros {
