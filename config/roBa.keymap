@@ -93,7 +93,7 @@
             key-positions = <19 20>;
         };
 
-        space {
+        sp {
             bindings = <&kp SPACE>;
             key-positions = <22 38>;
         };
