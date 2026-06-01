@@ -63,6 +63,11 @@
             key-positions = <11 12>;
         };
 
+        space {
+            bindings = <&kp SPACE>;
+            key-positions = <10 14>;
+        };
+
         shift_tab {
             bindings = <&kp LS(TAB)>;
             key-positions = <12 13>;
